@@ -1,13 +1,5 @@
-echo "# 1236" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Maria-123-a125/1236.git
-git push -u origin mainecho "# 1236" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Maria-123-a125/1236.git
-git push -u origin main
+git add --all
+git commit -m "testeando todo"
+git remote add origin https://github.com/tu_usuario/nombre_de_el_repositorio.git
+git push -u origin master
+
